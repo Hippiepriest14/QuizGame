@@ -1,1 +1,1 @@
-It's quiz and nothing more :)
+Quiz app (made with OOP and TK + API requests)
